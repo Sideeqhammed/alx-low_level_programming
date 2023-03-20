@@ -5,7 +5,8 @@
 
 /* betty style doc for function main goes there */
 
-/** main - Entry point
+/** 
+ * main - Entry point
  *
  * Return 0 (Always Success)
  */
