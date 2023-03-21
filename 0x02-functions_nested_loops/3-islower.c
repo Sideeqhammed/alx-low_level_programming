@@ -3,6 +3,8 @@
 /**
  * _islower - prints lowercase
  *
+ * c - letters in lowercase
+ *
  * Return: always 0
  */
 int _islower(int c)
