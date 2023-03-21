@@ -3,7 +3,7 @@
 /**
  * _islower - prints lowercase
  *
- * c - letters in lowercase
+ * @c - letters in lowercase
  *
  * Return: always 0
  */
