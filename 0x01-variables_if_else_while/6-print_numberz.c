@@ -9,15 +9,10 @@ int main(void)
 {
 	int i;
 
-	int j = 10;
-
 	for (i = 0; i <= 9; i++)
 	{
-		if (j > 9)
-		{
-		       putchar('\n');
-		}
 		putchar('0' + i);
 	}
+	putchar('\n');
 	return (0);
 }
