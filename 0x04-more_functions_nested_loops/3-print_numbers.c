@@ -1,0 +1,15 @@
+#include "main.h"
+#include <stdio.h>
+
+/**
+ * print_numbers - prints numbers
+ * @c: number to be printed
+ */
+void print_numbers(void)
+{
+	char c;
+
+	for (c = 48; c <= 57; c++)
+		putchar(c);
+	putchar('\n');
+}
